@@ -2,15 +2,16 @@
 
 ### Install dependencies
 
-yarn
+`yarn`
 
 ### Start project
 
-yarn dev
+`yarn dev`
 
 ## OR
 
 ### Start project via Docker
 
-docker compose build
-docker compose up
+`docker compose build`
+
+`docker compose up`
