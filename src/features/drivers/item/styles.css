@@ -1,0 +1,4 @@
+.driver-item {
+  @apply border border-blue-700 rounded-2xl
+  p-4 flex justify-between;
+}

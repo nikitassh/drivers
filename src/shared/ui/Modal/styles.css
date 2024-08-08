@@ -1,0 +1,8 @@
+.backdrop {
+  @apply absolute top-0 left-0 h-full w-full flex items-center justify-center overflow-y-hidden;
+  background: rgba(128, 128, 128, 50%);
+}
+
+.modal {
+  @apply block rounded-2xl p-4 md:p-6 w-5/6 md:w-1/3;
+}
