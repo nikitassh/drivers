@@ -1,9 +1,16 @@
 # React + TypeScript
 
-## Install dependencies
+### Install dependencies
 
 yarn
 
-## Start project
+### Start project
 
 yarn dev
+
+## OR
+
+### Start project via Docker
+
+docker compose build
+docker compose up
